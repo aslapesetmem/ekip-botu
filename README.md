@@ -4,7 +4,7 @@ Selamlar, V14 Ekip Botunu Fixliyip Buraya Atıcaz Bot Beş.js Ye Aittir Biz Fixl
 
 # Not: 
 
-Botların tamamı ben ve Arkadaşım Siesla {enes} güncellenmiş olarak buraya atılcaktır.
+Botların tamamı ben ve Arkadaşım Siesla {[enes](https://github.com/Siesla)} güncellenmiş olarak buraya atılcaktır.
 
 
 
